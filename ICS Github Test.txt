@@ -1,7 +1,19 @@
 Mr. Novello
 likestoaddfunction
+<<<<<<< HEAD
 Jerome Fulgado Jr. 
 Reshma Karthikeyan
 Jazz Aulakh
 xxx
 
+=======
+Jerome Fulgado Jr.   
+
+
+
+
+
+
+
+Rebecca Lewis
+>>>>>>> refs/remotes/origin/test_Rebecca_lewis
