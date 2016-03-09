@@ -1,3 +1,11 @@
 Mr. Novello
 likestoaddfunction
+<<<<<<< HEAD
 Hamza Syed
+=======
+Jerome Fulgado Jr. 
+Reshma Karthikeyan
+Jazz Aulakh
+xxx
+
+>>>>>>> master
