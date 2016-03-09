@@ -8,10 +8,16 @@ Hamza Syed
 >>>>>>> TestName
 Jerome Fulgado Jr. 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Bryant Hoang
+=======
+>>>>>>> testing
 Reshma Karthikeyan
 Jazz Aulakh
 xxx
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 Matthew Sahim
@@ -30,3 +36,6 @@ Rebecca Lewis
 =======
 >>>>>>> master
 >>>>>>> TestName
+=======
+>>>>>>> refs/remotes/origin/master
+>>>>>>> testing
