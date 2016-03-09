@@ -1,5 +1,6 @@
 Mr. Novello
 likestoaddfunction
+<<<<<<< HEAD
 Jerome Fulgado Jr.   
 
 
@@ -9,3 +10,10 @@ Jerome Fulgado Jr.
 
 
 Rebecca Lewis
+=======
+Jerome Fulgado Jr. 
+Reshma Karthikeyan
+Jazz Aulakh
+xxx
+
+>>>>>>> tst
