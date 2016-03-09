@@ -1,4 +1,16 @@
 Mr. Novello
 likestoaddfunction
+<<<<<<< HEAD
 Jerome Fulgado Jr. 
 Matthew Sahim
+=======
+Jerome Fulgado Jr.   
+
+
+
+
+
+
+
+Rebecca Lewis
+>>>>>>> refs/remotes/origin/test_Rebecca_lewis
