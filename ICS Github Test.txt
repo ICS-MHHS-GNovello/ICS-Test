@@ -1,12 +1,18 @@
 Mr. Novello
 likestoaddfunction
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Hamza Syed
+=======
+>>>>>>> TestName
 Jerome Fulgado Jr. 
 <<<<<<< HEAD
 Reshma Karthikeyan
 Jazz Aulakh
 xxx
 
+<<<<<<< HEAD
 =======
 Matthew Sahim
 >>>>>>> MS-branch
@@ -21,3 +27,6 @@ Jerome Fulgado Jr.
 
 Rebecca Lewis
 >>>>>>> refs/remotes/origin/test_Rebecca_lewis
+=======
+>>>>>>> master
+>>>>>>> TestName
